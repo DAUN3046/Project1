@@ -21,6 +21,20 @@
 		CDBF7215245B3B3B00D6FAF8 /* gamtan.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CDBF7210245B3B3A00D6FAF8 /* gamtan.jpg */; };
 		CDBF7216245B3B3B00D6FAF8 /* CU.png in Resources */ = {isa = PBXBuildFile; fileRef = CDBF7211245B3B3B00D6FAF8 /* CU.png */; };
 		CDBF7217245B3B3B00D6FAF8 /* onigiri.png in Resources */ = {isa = PBXBuildFile; fileRef = CDBF7212245B3B3B00D6FAF8 /* onigiri.png */; };
+		CDBF7221245C190800D6FAF8 /* touslesjours_menu.png in Resources */ = {isa = PBXBuildFile; fileRef = CDBF7220245C190800D6FAF8 /* touslesjours_menu.png */; };
+		CDBF7223245C1C2900D6FAF8 /* menuViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDBF7222245C1C2900D6FAF8 /* menuViewController.swift */; };
+		CDBF7225245C1F7A00D6FAF8 /* gamtan_menu.png in Resources */ = {isa = PBXBuildFile; fileRef = CDBF7224245C1F7900D6FAF8 /* gamtan_menu.png */; };
+		CDBF7227245C20CD00D6FAF8 /* onigiri_menu.png in Resources */ = {isa = PBXBuildFile; fileRef = CDBF7226245C20CC00D6FAF8 /* onigiri_menu.png */; };
+		CDBF7229245C280000D6FAF8 /* pandorothy.png in Resources */ = {isa = PBXBuildFile; fileRef = CDBF7228245C280000D6FAF8 /* pandorothy.png */; };
+		CDBF722B245C2B4A00D6FAF8 /* pandorothy_menu.png in Resources */ = {isa = PBXBuildFile; fileRef = CDBF722A245C2B4A00D6FAF8 /* pandorothy_menu.png */; };
+		CDBF722D245C683A00D6FAF8 /* etang.png in Resources */ = {isa = PBXBuildFile; fileRef = CDBF722C245C683A00D6FAF8 /* etang.png */; };
+		CDBF722F245C6B8400D6FAF8 /* mangwun.png in Resources */ = {isa = PBXBuildFile; fileRef = CDBF722E245C6B8400D6FAF8 /* mangwun.png */; };
+		CDBF7231245C6D9100D6FAF8 /* walnam.png in Resources */ = {isa = PBXBuildFile; fileRef = CDBF7230245C6D9100D6FAF8 /* walnam.png */; };
+		CDBF7234245C6E4600D6FAF8 /* choigodang.png in Resources */ = {isa = PBXBuildFile; fileRef = CDBF7232245C6E4600D6FAF8 /* choigodang.png */; };
+		CDBF7235245C6E4600D6FAF8 /* addal.png in Resources */ = {isa = PBXBuildFile; fileRef = CDBF7233245C6E4600D6FAF8 /* addal.png */; };
+		CDEBDD35245C9AD600E7C61C /* mangwun_menu.png in Resources */ = {isa = PBXBuildFile; fileRef = CDEBDD34245C9AD600E7C61C /* mangwun_menu.png */; };
+		CDEBDD38245C9AEA00E7C61C /* chiogodang_menu.png in Resources */ = {isa = PBXBuildFile; fileRef = CDEBDD36245C9AEA00E7C61C /* chiogodang_menu.png */; };
+		CDEBDD39245C9AEA00E7C61C /* etang_menu.png in Resources */ = {isa = PBXBuildFile; fileRef = CDEBDD37245C9AEA00E7C61C /* etang_menu.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -40,6 +54,20 @@
 		CDBF7210245B3B3A00D6FAF8 /* gamtan.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = gamtan.jpg; sourceTree = "<group>"; };
 		CDBF7211245B3B3B00D6FAF8 /* CU.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CU.png; sourceTree = "<group>"; };
 		CDBF7212245B3B3B00D6FAF8 /* onigiri.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = onigiri.png; sourceTree = "<group>"; };
+		CDBF7220245C190800D6FAF8 /* touslesjours_menu.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = touslesjours_menu.png; sourceTree = "<group>"; };
+		CDBF7222245C1C2900D6FAF8 /* menuViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = menuViewController.swift; sourceTree = "<group>"; };
+		CDBF7224245C1F7900D6FAF8 /* gamtan_menu.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = gamtan_menu.png; sourceTree = "<group>"; };
+		CDBF7226245C20CC00D6FAF8 /* onigiri_menu.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = onigiri_menu.png; sourceTree = "<group>"; };
+		CDBF7228245C280000D6FAF8 /* pandorothy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pandorothy.png; sourceTree = "<group>"; };
+		CDBF722A245C2B4A00D6FAF8 /* pandorothy_menu.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pandorothy_menu.png; sourceTree = "<group>"; };
+		CDBF722C245C683A00D6FAF8 /* etang.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = etang.png; sourceTree = "<group>"; };
+		CDBF722E245C6B8400D6FAF8 /* mangwun.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mangwun.png; sourceTree = "<group>"; };
+		CDBF7230245C6D9100D6FAF8 /* walnam.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = walnam.png; sourceTree = "<group>"; };
+		CDBF7232245C6E4600D6FAF8 /* choigodang.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = choigodang.png; sourceTree = "<group>"; };
+		CDBF7233245C6E4600D6FAF8 /* addal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = addal.png; sourceTree = "<group>"; };
+		CDEBDD34245C9AD600E7C61C /* mangwun_menu.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mangwun_menu.png; sourceTree = "<group>"; };
+		CDEBDD36245C9AEA00E7C61C /* chiogodang_menu.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = chiogodang_menu.png; sourceTree = "<group>"; };
+		CDEBDD37245C9AEA00E7C61C /* etang_menu.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = etang_menu.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,11 +84,6 @@
 		CD83834F2456DF3B003E860B = {
 			isa = PBXGroup;
 			children = (
-				CDBF7211245B3B3B00D6FAF8 /* CU.png */,
-				CDBF7210245B3B3A00D6FAF8 /* gamtan.jpg */,
-				CDBF7212245B3B3B00D6FAF8 /* onigiri.png */,
-				CDBF720E245B3B3A00D6FAF8 /* starbucks.png */,
-				CDBF720F245B3B3A00D6FAF8 /* touslesjours.png */,
 				CD83835A2456DF3B003E860B /* iwanteat */,
 				CD8383592456DF3B003E860B /* Products */,
 			);
@@ -77,6 +100,24 @@
 		CD83835A2456DF3B003E860B /* iwanteat */ = {
 			isa = PBXGroup;
 			children = (
+				CDEBDD36245C9AEA00E7C61C /* chiogodang_menu.png */,
+				CDEBDD37245C9AEA00E7C61C /* etang_menu.png */,
+				CDEBDD34245C9AD600E7C61C /* mangwun_menu.png */,
+				CDBF7233245C6E4600D6FAF8 /* addal.png */,
+				CDBF7232245C6E4600D6FAF8 /* choigodang.png */,
+				CDBF7230245C6D9100D6FAF8 /* walnam.png */,
+				CDBF722E245C6B8400D6FAF8 /* mangwun.png */,
+				CDBF722C245C683A00D6FAF8 /* etang.png */,
+				CDBF722A245C2B4A00D6FAF8 /* pandorothy_menu.png */,
+				CDBF7228245C280000D6FAF8 /* pandorothy.png */,
+				CDBF7226245C20CC00D6FAF8 /* onigiri_menu.png */,
+				CDBF7224245C1F7900D6FAF8 /* gamtan_menu.png */,
+				CDBF7220245C190800D6FAF8 /* touslesjours_menu.png */,
+				CDBF7211245B3B3B00D6FAF8 /* CU.png */,
+				CDBF7210245B3B3A00D6FAF8 /* gamtan.jpg */,
+				CDBF7212245B3B3B00D6FAF8 /* onigiri.png */,
+				CDBF720E245B3B3A00D6FAF8 /* starbucks.png */,
+				CDBF720F245B3B3A00D6FAF8 /* touslesjours.png */,
 				CD83835B2456DF3B003E860B /* AppDelegate.swift */,
 				CD83835D2456DF3B003E860B /* SceneDelegate.swift */,
 				CDBF720A245ADAAF00D6FAF8 /* OptionViewController.swift */,
@@ -84,6 +125,7 @@
 				CD046EBA24570D8E00268A78 /* NextViewController.swift */,
 				CD8383612456DF3B003E860B /* Main.storyboard */,
 				CDBF720C245B377800D6FAF8 /* sorryViewController.swift */,
+				CDBF7222245C1C2900D6FAF8 /* menuViewController.swift */,
 				CD8383642456DF3E003E860B /* Assets.xcassets */,
 				CD8383662456DF3E003E860B /* LaunchScreen.storyboard */,
 				CD8383692456DF3E003E860B /* Info.plist */,
@@ -150,12 +192,25 @@
 			buildActionMask = 2147483647;
 			files = (
 				CD8383682456DF3E003E860B /* LaunchScreen.storyboard in Resources */,
+				CDBF7221245C190800D6FAF8 /* touslesjours_menu.png in Resources */,
+				CDBF7235245C6E4600D6FAF8 /* addal.png in Resources */,
 				CD8383652456DF3E003E860B /* Assets.xcassets in Resources */,
+				CDBF7227245C20CD00D6FAF8 /* onigiri_menu.png in Resources */,
+				CDBF722B245C2B4A00D6FAF8 /* pandorothy_menu.png in Resources */,
+				CDBF7234245C6E4600D6FAF8 /* choigodang.png in Resources */,
+				CDBF722D245C683A00D6FAF8 /* etang.png in Resources */,
 				CDBF7214245B3B3B00D6FAF8 /* touslesjours.png in Resources */,
+				CDEBDD38245C9AEA00E7C61C /* chiogodang_menu.png in Resources */,
 				CDBF7213245B3B3B00D6FAF8 /* starbucks.png in Resources */,
+				CDEBDD35245C9AD600E7C61C /* mangwun_menu.png in Resources */,
 				CD8383632456DF3B003E860B /* Main.storyboard in Resources */,
+				CDBF722F245C6B8400D6FAF8 /* mangwun.png in Resources */,
 				CDBF7216245B3B3B00D6FAF8 /* CU.png in Resources */,
 				CDBF7215245B3B3B00D6FAF8 /* gamtan.jpg in Resources */,
+				CDBF7229245C280000D6FAF8 /* pandorothy.png in Resources */,
+				CDEBDD39245C9AEA00E7C61C /* etang_menu.png in Resources */,
+				CDBF7231245C6D9100D6FAF8 /* walnam.png in Resources */,
+				CDBF7225245C1F7A00D6FAF8 /* gamtan_menu.png in Resources */,
 				CDBF7217245B3B3B00D6FAF8 /* onigiri.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -173,6 +228,7 @@
 				CD83835C2456DF3B003E860B /* AppDelegate.swift in Sources */,
 				CDBF720D245B377800D6FAF8 /* sorryViewController.swift in Sources */,
 				CD83835E2456DF3B003E860B /* SceneDelegate.swift in Sources */,
+				CDBF7223245C1C2900D6FAF8 /* menuViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

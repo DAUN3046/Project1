@@ -11,7 +11,7 @@ import UIKit
 class OptionViewController: UIViewController, UITextFieldDelegate {
 
 //    var name: String?
-    // 뒤로가기 누르고 다시 돌아오면 라벨이 변경값이 아닌 김슈니인 문제 발생.-> 제대로 데이터 가져오기가 안됨!! 뷰컨트롤러의 순서를 바꿔야되나? -> 바꿨다..
+    // 뒤로가기 누르고 다시 돌아오면 라벨이 변경값이 아닌 김슈니인 문제 발생.-> 제대로 데이터 가져오기가 안됨!! 뷰컨트롤러의 순서를 바꿔야되나? -> 바꿨다..근데 바꿔도 똑같다...
     
     @IBOutlet var currentName: UILabel! // 현재 이름 라벨
     @IBOutlet var currentName2: UILabel! // 현재 이름 표시
@@ -44,9 +44,6 @@ class OptionViewController: UIViewController, UITextFieldDelegate {
         return true
     }
     
-    // 여유되면 배경색 설정도 넣자
-    // + 배경색 초기화 버튼도 넣자
-        
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
